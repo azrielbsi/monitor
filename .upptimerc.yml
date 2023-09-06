@@ -31,7 +31,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-  i18n:
+i18n:
   footer: This page is hosted on GitHub [Julius Ulee]($REPO) project since @2023-09-10, & created by [Julius Ulee](https://www.51sec.org).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
