@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
-    "timeDay": 1004,
+    "timeDay": 979,
     "timeWeek": 970,
     "timeMonth": 970,
     "timeYear": 970,
@@ -22,18 +22,20 @@
     "url": "https://sakaibot-discord.uzumekiulee.repl.co/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1062,
-    "timeDay": 848,
+    "timeDay": 888,
     "timeWeek": 1062,
     "timeMonth": 1062,
     "timeYear": 1062,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   },
   {
     "name": "Crypto Mining",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 55,
+    "timeDay": 59,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
@@ -58,17 +60,19 @@
     "url": "https://mining.uzumekiulee.repl.co",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1108,
-    "timeDay": 923,
+    "timeDay": 785,
     "timeWeek": 1108,
     "timeMonth": 1108,
     "timeYear": 1108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   }
 ]
