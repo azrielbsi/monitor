@@ -24,19 +24,19 @@
     "url": "https://sakaibot-discord.uzumekiulee.repl.co/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 1971,
     "timeDay": 2851,
     "timeWeek": 1971,
     "timeMonth": 1971,
     "timeYear": 1971,
     "dailyMinutesDown": {
-      "2023-09-07": 38
+      "2023-09-07": 32
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
     "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "98.13%",
+    "uptime": "97.93%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "97.93%",
     "time": 1645,
     "timeDay": 2371,
     "timeWeek": 1645,
     "timeMonth": 1645,
     "timeYear": 1645,
     "dailyMinutesDown": {
-      "2023-09-07": 54
+      "2023-09-07": 59
     }
   }
 ]
