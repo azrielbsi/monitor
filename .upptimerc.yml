@@ -29,7 +29,7 @@ status-website:
   introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status page
-      href: /
+      href: /monitor
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
