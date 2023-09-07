@@ -4,19 +4,19 @@
     "url": "https://ameliabot.dev/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "amelia-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3192,
-    "timeDay": 8379,
-    "timeWeek": 3192,
-    "timeMonth": 3192,
-    "timeYear": 3192,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 3931,
+    "timeDay": 9116,
+    "timeWeek": 3931,
+    "timeMonth": 3931,
+    "timeYear": 3931,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.03%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 1062,
     "timeDay": 1002,
     "timeWeek": 1062,
     "timeMonth": 1062,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-09-07": 16
+      "2023-09-07": 26
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.03%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 1714,
     "timeDay": 2819,
     "timeWeek": 1714,
     "timeMonth": 1714,
     "timeYear": 1714,
     "dailyMinutesDown": {
-      "2023-09-07": 16
+      "2023-09-07": 26
     }
   }
 ]
