@@ -69,18 +69,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
     "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "uptime": "98.61%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 2312,
     "timeDay": 1237,
     "timeWeek": 1285,
     "timeMonth": 2312,
     "timeYear": 2312,
     "dailyMinutesDown": {
-      "2023-09-20": 29,
+      "2023-09-20": 23,
       "2023-09-10": 37,
       "2023-09-08": 180,
       "2023-09-07": 65
@@ -91,17 +91,19 @@
     "url": "https://google.com",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 150,
-    "timeWeek": 141,
-    "timeMonth": 179,
-    "timeYear": 179,
-    "dailyMinutesDown": {}
+    "time": 192,
+    "timeDay": 290,
+    "timeWeek": 177,
+    "timeMonth": 192,
+    "timeYear": 192,
+    "dailyMinutesDown": {
+      "2023-09-20": 0
+    }
   }
 ]
