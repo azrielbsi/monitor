@@ -4,10 +4,19 @@ repo: monitor # The name of this repository
 
 sites:
   - name: Amelia Bot
-    url: https://ameliabot-discord.uzumekiulee.repl.co/
+    url: https://c57e5398-3949-45e7-9bd0-921f4ca9c735-00-njyayalfsu24.asia-b.replit.dev/
     icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
   - name: Sakai Wolford Bot
-    url: https://sakaibot-discord.uzumekiulee.repl.co/
+    url: https://57807cee-a496-49db-810c-9184cf7f0693-00-7nhexelkttqj.asia-a.replit.dev/
+    icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
+  - name : Campfire Bot
+    url: https://5b57c515-340b-481a-b291-3d1ea462d78c-00-3drjkasxmuaz6.asia-b.replit.dev/
+    icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
+  - name: Julius Ulee
+    url: https://f4bfb470-e901-4f1e-97ae-33e62e15baf0-00-1wq931wj0kzq0.asia-b.replit.dev/
+    icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
+  - name: Kaneki
+    url: https://be629709-0eea-4d63-bd46-443d2e3f9155-00-23yhfejug3idi.asia-b.replit.dev/
     icon: https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png
   - name: Crypto Mining
     url: https://julius-ulee.github.io/Crypto-Mining/
