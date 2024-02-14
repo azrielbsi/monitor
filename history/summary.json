@@ -4,19 +4,19 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 189,
-    "timeDay": 177,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 191,
+    "timeDay": 193,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-02-14": 1
+      "2024-02-14": 6
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 920,
     "timeYear": 3847,
     "dailyMinutesDown": {
-      "2024-02-14": 625,
+      "2024-02-14": 632,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -118,7 +118,7 @@
     "timeMonth": 923,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-02-14": 625,
+      "2024-02-14": 632,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -179,7 +179,7 @@
     "timeMonth": 921,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2024-02-14": 625,
+      "2024-02-14": 632,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -240,7 +240,7 @@
     "timeMonth": 912,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-02-14": 625,
+      "2024-02-14": 632,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -311,7 +311,7 @@
     "uptime": "89.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.77%",
+    "uptimeMonth": "48.76%",
     "uptimeYear": "89.79%",
     "time": 1667,
     "timeDay": 0,
@@ -319,7 +319,7 @@
     "timeMonth": 1230,
     "timeYear": 1667,
     "dailyMinutesDown": {
-      "2024-02-14": 625,
+      "2024-02-14": 632,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
