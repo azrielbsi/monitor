@@ -4,12 +4,12 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
-    "uptime": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "97.90%",
     "uptimeMonth": "98.69%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 1546,
     "timeDay": 211,
     "timeWeek": 1617,
@@ -84,8 +84,7 @@
       "2024-03-14": 29,
       "2024-03-13": 18,
       "2024-03-11": 21,
-      "2024-03-09": 21,
-      "2024-03-04": 32
+      "2024-03-09": 21
     }
   },
   {
@@ -94,18 +93,18 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "34.43%",
+    "uptime": "34.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.43%",
+    "uptimeYear": "34.42%",
     "time": 3847,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3847,
     "dailyMinutesDown": {
-      "2024-08-19": 791,
+      "2024-08-19": 872,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -374,7 +373,7 @@
     "timeMonth": 0,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-08-19": 791,
+      "2024-08-19": 872,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -622,7 +621,7 @@
     "timeMonth": 200,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-08-19": 791,
+      "2024-08-19": 872,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -827,7 +826,7 @@
     "timeMonth": 0,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-08-19": 791,
+      "2024-08-19": 872,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -1093,7 +1092,7 @@
     "timeMonth": 0,
     "timeYear": 1667,
     "dailyMinutesDown": {
-      "2024-08-19": 791,
+      "2024-08-19": 872,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
