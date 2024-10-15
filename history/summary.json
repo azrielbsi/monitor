@@ -4,9 +4,9 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.45%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.34%",
@@ -16,6 +16,7 @@
     "timeMonth": 1200,
     "timeYear": 1486,
     "dailyMinutesDown": {
+      "2024-10-15": 0,
       "2024-10-12": 37,
       "2024-10-11": 114,
       "2024-10-10": 19,
@@ -66,8 +67,7 @@
       "2024-08-16": 16,
       "2024-08-14": 57,
       "2024-08-13": 44,
-      "2024-08-11": 69,
-      "2024-08-08": 15
+      "2024-08-11": 69
     }
   },
   {
@@ -80,14 +80,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.93%",
+    "uptimeYear": "21.92%",
     "time": 3911,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4020,
     "dailyMinutesDown": {
-      "2024-10-15": 46,
+      "2024-10-15": 54,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -403,7 +403,7 @@
     "timeMonth": 0,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-10-15": 46,
+      "2024-10-15": 54,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -708,7 +708,7 @@
     "timeMonth": 210,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2024-10-15": 46,
+      "2024-10-15": 54,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -970,7 +970,7 @@
     "timeMonth": 0,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-10-15": 46,
+      "2024-10-15": 54,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -1293,7 +1293,7 @@
     "timeMonth": 0,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2024-10-15": 46,
+      "2024-10-15": 54,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
