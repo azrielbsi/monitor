@@ -4,12 +4,12 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "87.51%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "87.50%",
     "uptimeWeek": "95.66%",
     "uptimeMonth": "97.09%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 1490,
     "timeDay": 1460,
     "timeWeek": 1018,
@@ -64,8 +64,7 @@
       "2024-08-19": 31,
       "2024-08-18": 22,
       "2024-08-17": 56,
-      "2024-08-16": 16,
-      "2024-08-14": 24
+      "2024-08-16": 16
     }
   },
   {
@@ -85,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 4020,
     "dailyMinutesDown": {
-      "2024-10-15": 539,
+      "2024-10-15": 558,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -401,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-10-15": 539,
+      "2024-10-15": 558,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -706,7 +705,7 @@
     "timeMonth": 210,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2024-10-15": 539,
+      "2024-10-15": 558,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -968,7 +967,7 @@
     "timeMonth": 0,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-10-15": 539,
+      "2024-10-15": 558,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -1284,14 +1283,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.75%",
+    "uptimeYear": "28.74%",
     "time": 1656,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2024-10-15": 539,
+      "2024-10-15": 559,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
