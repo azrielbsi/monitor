@@ -4,16 +4,16 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "96.69%",
     "uptimeWeek": "97.27%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "99.32%",
     "time": 1510,
     "timeDay": 553,
     "timeWeek": 1723,
-    "timeMonth": 1695,
+    "timeMonth": 1708,
     "timeYear": 1510,
     "dailyMinutesDown": {
       "2024-11-25": 20,
@@ -68,7 +68,7 @@
       "2024-09-26": 22,
       "2024-09-25": 22,
       "2024-09-24": 26,
-      "2024-09-20": 42
+      "2024-09-20": 24
     }
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "26.89%",
+    "uptime": "26.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.62%",
+    "uptimeYear": "10.61%",
     "time": 4022,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2570,
     "dailyMinutesDown": {
-      "2024-11-25": 639,
+      "2024-11-25": 677,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -437,7 +437,7 @@
     "timeMonth": 0,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-11-25": 639,
+      "2024-11-25": 677,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -783,7 +783,7 @@
     "timeMonth": 353,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-11-25": 639,
+      "2024-11-25": 677,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -1086,7 +1086,7 @@
     "timeMonth": 0,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-11-25": 639,
+      "2024-11-25": 677,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -1450,7 +1450,7 @@
     "timeMonth": 0,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2024-11-25": 639,
+      "2024-11-25": 677,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
