@@ -4,15 +4,15 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
-    "uptime": "99.33%",
+    "status": "down",
+    "uptime": "99.34%",
     "uptimeDay": "97.39%",
     "uptimeWeek": "96.78%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 1493,
     "timeDay": 368,
-    "timeWeek": 637,
+    "timeWeek": 654,
     "timeMonth": 1421,
     "timeYear": 1493,
     "dailyMinutesDown": {
@@ -66,8 +66,7 @@
       "2024-10-04": 22,
       "2024-10-03": 96,
       "2024-10-02": 122,
-      "2024-10-01": 21,
-      "2024-09-30": 24
+      "2024-10-01": 21
     }
   },
   {
@@ -87,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2417,
     "dailyMinutesDown": {
-      "2024-12-01": 262,
+      "2024-12-01": 282,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -441,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-12-01": 262,
+      "2024-12-01": 282,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -793,7 +792,7 @@
     "timeMonth": 356,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2024-12-01": 262,
+      "2024-12-01": 282,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -1102,7 +1101,7 @@
     "timeMonth": 0,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-12-01": 262,
+      "2024-12-01": 282,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -1472,7 +1471,7 @@
     "timeMonth": 0,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2024-12-01": 262,
+      "2024-12-01": 282,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
