@@ -4,9 +4,9 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "75.55%",
+    "uptimeDay": "81.66%",
     "uptimeWeek": "90.70%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.23%",
@@ -16,6 +16,7 @@
     "timeMonth": 1656,
     "timeYear": 1489,
     "dailyMinutesDown": {
+      "2025-01-05": 0,
       "2025-01-04": 404,
       "2025-01-03": 513,
       "2025-01-01": 21,
@@ -71,7 +72,7 @@
       "2024-10-16": 95,
       "2024-10-15": 195,
       "2024-10-12": 37,
-      "2024-10-11": 47
+      "2024-10-11": 30
     }
   },
   {
@@ -80,7 +81,7 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "24.65%",
+    "uptime": "24.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -91,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2025-01-05": 52,
+      "2025-01-05": 140,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -475,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2025-01-05": 52,
+      "2025-01-05": 140,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -859,7 +860,7 @@
     "timeMonth": 208,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-01-05": 52,
+      "2025-01-05": 140,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -1200,7 +1201,7 @@
     "timeMonth": 0,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2025-01-05": 52,
+      "2025-01-05": 140,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -1595,14 +1596,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.49%",
+    "uptimeYear": "6.47%",
     "time": 1350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2025-01-05": 52,
+      "2025-01-05": 140,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
