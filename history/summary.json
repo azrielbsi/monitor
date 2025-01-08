@@ -6,15 +6,15 @@
     "slug": "sukri-online",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "90.09%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.23%",
-    "time": 1480,
-    "timeDay": 218,
-    "timeWeek": 1560,
+    "time": 1479,
+    "timeDay": 124,
+    "timeWeek": 1553,
     "timeMonth": 1545,
-    "timeYear": 1480,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2025-01-06": 18,
       "2025-01-05": 43,
@@ -82,18 +82,19 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "24.55%",
+    "uptime": "24.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3141,
+    "time": 3160,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2025-01-07": 47,
+      "2025-01-08": 47,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -456,8 +457,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 309
+      "2024-01-10": 1440
     }
   },
   {
@@ -475,9 +475,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1020,
+    "timeYear": 1019,
     "dailyMinutesDown": {
-      "2025-01-07": 47,
+      "2025-01-08": 47,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -840,8 +841,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 291
+      "2024-01-10": 1440
     }
   },
   {
@@ -850,18 +850,19 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "julius-ulee",
     "status": "down",
-    "uptime": "12.38%",
+    "uptime": "12.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "12.22%",
-    "time": 296,
-    "timeDay": 307,
-    "timeWeek": 206,
+    "time": 295,
+    "timeDay": 133,
+    "timeWeek": 196,
     "timeMonth": 207,
-    "timeYear": 277,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-01-07": 47,
+      "2025-01-08": 47,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -1181,8 +1182,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 297
+      "2024-01-10": 1440
     }
   },
   {
@@ -1200,9 +1200,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1034,
+    "timeYear": 1035,
     "dailyMinutesDown": {
-      "2025-01-07": 47,
+      "2025-01-08": 47,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -1565,8 +1566,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 290
+      "2024-01-10": 1440
     }
   },
   {
@@ -1581,8 +1581,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 78,
-    "timeWeek": 102,
+    "timeDay": 132,
+    "timeWeek": 111,
     "timeMonth": 98,
     "timeYear": 100,
     "dailyMinutesDown": {}
@@ -1593,18 +1593,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
     "status": "down",
-    "uptime": "29.69%",
+    "uptime": "29.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.94%",
-    "time": 1352,
+    "uptimeYear": "5.70%",
+    "time": 1199,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1264,
+    "timeYear": 1262,
     "dailyMinutesDown": {
-      "2025-01-07": 47,
+      "2025-01-08": 47,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -1948,8 +1949,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 215,
-      "2024-01-09": 27
+      "2024-01-29": 215
     }
   },
   {
@@ -1964,8 +1964,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 163,
-    "timeDay": 163,
-    "timeWeek": 158,
+    "timeDay": 156,
+    "timeWeek": 160,
     "timeMonth": 168,
     "timeYear": 165,
     "dailyMinutesDown": {
