@@ -4,9 +4,9 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "99.26%",
@@ -16,6 +16,7 @@
     "timeMonth": 1087,
     "timeYear": 1465,
     "dailyMinutesDown": {
+      "2025-01-27": 0,
       "2025-01-24": 15,
       "2025-01-22": 22,
       "2025-01-19": 72,
@@ -78,7 +79,7 @@
       "2024-10-19": 92,
       "2024-10-17": 128,
       "2024-10-16": 95,
-      "2024-10-15": 40
+      "2024-10-15": 16
     }
   },
   {
@@ -98,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-01-27": 47,
+      "2025-01-27": 150,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -482,7 +483,7 @@
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-01-27": 47,
+      "2025-01-27": 150,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -866,7 +867,7 @@
     "timeMonth": 206,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-01-27": 47,
+      "2025-01-27": 150,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -1207,7 +1208,7 @@
     "timeMonth": 0,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-01-27": 47,
+      "2025-01-27": 150,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -1598,18 +1599,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
     "status": "down",
-    "uptime": "28.53%",
+    "uptime": "28.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.50%",
+    "uptimeYear": "0.48%",
     "time": 1199,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1188,
     "dailyMinutesDown": {
-      "2025-01-27": 47,
+      "2025-01-27": 150,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
