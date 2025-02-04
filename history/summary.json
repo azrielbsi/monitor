@@ -4,12 +4,12 @@
     "url": "https://discord-aklx.onrender.com/",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sukri-online",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "98.90%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "98.89%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "98.96%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 1492,
     "timeDay": 308,
     "timeWeek": 472,
@@ -80,7 +80,7 @@
       "2024-10-21": 65,
       "2024-10-20": 23,
       "2024-10-19": 92,
-      "2024-10-17": 98
+      "2024-10-17": 81
     }
   },
   {
@@ -89,7 +89,7 @@
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
     "slug": "sakai-wolford-bot",
     "status": "down",
-    "uptime": "23.20%",
+    "uptime": "23.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 513,
+      "2025-02-04": 929,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -484,7 +484,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 513,
+      "2025-02-04": 929,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -868,7 +868,7 @@
     "timeMonth": 206,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-02-04": 513,
+      "2025-02-04": 929,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -1209,7 +1209,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 513,
+      "2025-02-04": 929,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -1600,7 +1600,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
     "slug": "mining",
     "status": "down",
-    "uptime": "28.07%",
+    "uptime": "28.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1611,7 +1611,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 513,
+      "2025-02-04": 929,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
